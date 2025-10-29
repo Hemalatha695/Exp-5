@@ -19,14 +19,17 @@ To study the problem statement, SRS document and draw all the UML diagrams of a 
 # DIAGRAMS:
 
 USECASE DIAGRAM
+
 ![UseCaseDiagram1](https://github.com/user-attachments/assets/a733dde6-d4e2-454d-8a41-28f17aa90f53)
 
 
 CLASS DIAGRAM
+
 ![ClassDiagram1](https://github.com/user-attachments/assets/0487a3da-12b4-454d-92ac-e1004b3568d6)
 
 
 PACKAGE DIAGRAM
+
 ![PackageDiagram1](https://github.com/user-attachments/assets/d0c0e4f0-fa7f-4d60-b79d-afe54f205257)
 
 
@@ -35,10 +38,12 @@ COMMUNICATION DIAGRAM
 
 
 ACTIVITY DIAGRAM 
+
 ![ActivityDiagram1](https://github.com/user-attachments/assets/dfa517dc-ffdd-448f-8444-6e7c68c47ff6)
 
 
 SEQUENCE DIAGRAM
+
 ![SequenceDiagram1](https://github.com/user-attachments/assets/5122a8b0-3926-4a75-ac3d-c5e927b5cfee)
 
 
